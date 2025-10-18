@@ -10,7 +10,12 @@
 <div align="center">
   <details>
         <summary> 🦠 STAMPS </summary>
-        skibidi </ />
+        <img width="99" height="56" alt="1000001618" src="https://github.com/user-attachments/assets/f38cae83-a770-430f-afcf-5068a888c990" />
+<img width="99" height="56" alt="1000001619" src="https://github.com/user-attachments/assets/5484ca43-c88a-48cb-9fe3-25577e3985d6" />
+<img width="99" height="56" alt="1000001620" src="https://github.com/user-attachments/assets/b6d38018-0820-4cf4-b762-7c9e57853406" />
+<img width="99" height="56" alt="1000001621" src="https://github.com/user-attachments/assets/30a335af-7aeb-4f7b-ba94-7158ee718c32" />
+<img width="97" height="53" alt="1000006907" src="https://github.com/user-attachments/assets/b669274e-3cc4-4d55-b041-a7b51bc3df42" /> <img width="99" height="55" alt="1000005968" src="https://github.com/user-attachments/assets/8bb3debb-6623-440c-b10a-90325a9380c7" />
+</ />
   </details>
 
   <div align="center">
