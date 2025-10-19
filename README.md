@@ -85,7 +85,9 @@ HOARD
   <div align="center">
   <details>
         <summary> 🦠 STAMPS #3 </summary>
-hawk tuahh </ />
+<img width="99" height="56" alt="1000007272" src="https://github.com/user-attachments/assets/35f73a74-579a-4f32-8574-91e8e646f81a" /> <img width="99" height="56" alt="1000007267" src="https://github.com/user-attachments/assets/c2a21b40-3133-44f0-b792-4b563ac90f28" />
+
+  </ />
   </details>
   <div align="center">
   <details>
@@ -129,12 +131,16 @@ hawk tuahh </ />
 <img width="1280" height="250" alt="1000007195" src="https://github.com/user-attachments/assets/ef3fcbfe-fd2d-4d79-8c85-1581a3e65c35" />
 <img width="2048" height="581" alt="1000007196" src="https://github.com/user-attachments/assets/20d04fea-e305-4d94-a509-8f31adb2ef9f" />
 <img width="2048" height="418" alt="1000007197" src="https://github.com/user-attachments/assets/df86ec08-7723-486d-8981-f49308319dd7" />
-
  </ />
   </details>
 
+<div align="center">
+  <details>
+        <summary> 🦠 USERBOXES #2 </summary>
+        wow </ /> 
+  </details>
 
   <details>
         <summary> 🦠 BUTTONS #1 </summary>
-        Skibidi </ />
+         </ />
   </details>
