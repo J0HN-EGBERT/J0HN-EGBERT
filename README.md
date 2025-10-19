@@ -86,7 +86,12 @@ HOARD
   <details>
         <summary> 🦠 STAMPS #3 </summary>
 <img width="99" height="56" alt="1000007272" src="https://github.com/user-attachments/assets/35f73a74-579a-4f32-8574-91e8e646f81a" /> <img width="99" height="56" alt="1000007267" src="https://github.com/user-attachments/assets/c2a21b40-3133-44f0-b792-4b563ac90f28" />
-
+<img width="99" height="56" alt="1000007353" src="https://github.com/user-attachments/assets/4dd3fad2-e985-4321-8c84-ea274e61ae9e" />
+<img width="99" height="55" alt="1000007368" src="https://github.com/user-attachments/assets/ad87ffb4-2003-4d81-8792-175453bfc501" />
+<img width="85" height="53" alt="1000007367" src="https://github.com/user-attachments/assets/9b0a9e2b-9fb6-485a-890e-22290e809b52" />
+<img width="99" height="56" alt="1000007347" src="https://github.com/user-attachments/assets/78c9e8ae-0cd0-408b-9281-e779db617dc9" />
+<img width="99" height="56" alt="1000007345" src="https://github.com/user-attachments/assets/2f08924e-9c6a-445d-8b7c-edd74268f503" />
+<img width="99" height="56" alt="1000007346" src="https://github.com/user-attachments/assets/c9747e40-5d6a-44aa-ba8a-56a948eddae6" />
   </ />
   </details>
   <div align="center">
