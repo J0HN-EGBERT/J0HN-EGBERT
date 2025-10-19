@@ -78,10 +78,15 @@ HOARD
 <img width="99" height="56" alt="Tumblr_l_75610899718810" src="https://github.com/user-attachments/assets/7dbb7d7c-c3e9-4ecd-b385-e53880d11413" />
 <img width="99" height="56" alt="Tumblr_l_75594286650327" src="https://github.com/user-attachments/assets/17af4482-e25d-4bd4-a6cc-dfa2952f0059" />
 <img width="99" height="56" alt="Tumblr_l_75362969055155" src="https://github.com/user-attachments/assets/03075ce5-ba59-48dc-9e6c-94e5b4f23ce2" />
-
+<img width="99" height="56" alt="1000007268" src="https://github.com/user-attachments/assets/b914344e-745a-450b-ba5b-1969d419f979" />
 </ />
   </details>
 
+  <div align="center">
+  <details>
+        <summary> 🦠 STAMPS #3 </summary>
+hawk tuahh </ />
+  </details>
   <div align="center">
   <details>
         <summary> 🦠 BLINKIES #1 </summary>
