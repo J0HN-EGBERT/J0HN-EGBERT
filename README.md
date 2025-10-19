@@ -9,7 +9,7 @@
 
 <div align="center">
   <details>
-        <summary> 🦠 STAMPS </summary>
+        <summary> 🦠 STAMPS #1 </summary>
         <img width="99" height="56" alt="1000001618" src="https://github.com/user-attachments/assets/f38cae83-a770-430f-afcf-5068a888c990" />
 <img width="99" height="56" alt="1000001619" src="https://github.com/user-attachments/assets/5484ca43-c88a-48cb-9fe3-25577e3985d6" />
 <img width="99" height="56" alt="1000001620" src="https://github.com/user-attachments/assets/b6d38018-0820-4cf4-b762-7c9e57853406" />
@@ -43,7 +43,14 @@
 <img width="99" height="56" alt="1000007235" src="https://github.com/user-attachments/assets/fd85903c-e5ef-4195-9848-7f8cf4f0600a" />
 <img width="99" height="55" alt="1000007234" src="https://github.com/user-attachments/assets/0370a67b-6325-4dec-b429-01b82cf5fdd3" />
 <img width="99" height="55" alt="1000007233" src="https://github.com/user-attachments/assets/060e4598-4350-4410-a38a-815d2bc32fc1" />
+    <img width="99" height="55" alt="1000007240" src="https://github.com/user-attachments/assets/77b169f8-4fba-4d05-9796-9a478ba220b0" />
+  </ />
+  </details>
 
+<div align="center">
+  <details>
+        <summary> 🦠 STAMPS #2 </summary>
+    hawkek tyah
 </ />
   </details>
 
