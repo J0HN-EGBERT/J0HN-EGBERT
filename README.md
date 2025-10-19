@@ -50,7 +50,12 @@
 <div align="center">
   <details>
         <summary> 🦠 STAMPS #2 </summary>
-    hawkek tyah
+    <img width="99" height="56" alt="1000007248" src="https://github.com/user-attachments/assets/37d228ac-6a4a-4fc9-8e51-12852b6117cc" /><img width="99" height="55" alt="1000007241" src="https://github.com/user-attachments/assets/3438c8d2-fca5-4e1a-91be-58131b9a921d" />
+<img width="99" height="56" alt="1000007243" src="https://github.com/user-attachments/assets/acbfa42c-fe25-4b83-89f1-9b1cd021819a" />
+<img width="99" height="56" alt="1000007242" src="https://github.com/user-attachments/assets/921a348e-8bbe-4259-882f-50e5cf6f3335" />
+<img width="99" height="56" alt="1000007245" src="https://github.com/user-attachments/assets/0f948faf-35eb-465e-92f3-f51b514eaf05" />
+<img width="99" height="56" alt="1000007244" src="https://github.com/user-attachments/assets/e4f8e504-c189-4307-b4b7-5e3049e3324e" />
+
 </ />
   </details>
 
