@@ -65,19 +65,28 @@
 <img width="99" height="56" alt="Tumblr_l_74102532433240" src="https://github.com/user-attachments/assets/59dbfa63-892d-4b53-9664-ae531f68c66d" />
 <img width="99" height="55" alt="Tumblr_l_73975769166726" src="https://github.com/user-attachments/assets/ef61cc42-db9f-48e8-9d03-ee0c7b06dc67" />
 <img width="99" height="56" alt="1000007220" src="https://github.com/user-attachments/assets/7f2296dd-c97c-4e33-bedb-f01999ef99cf" />
+<img width="99" height="56" alt="Tumblr_l_73723547303176" src="https://github.com/user-attachments/assets/0f571207-078f-4952-ab1c-55586cc06e08" />
+<img width="99" height="55" alt="Tumblr_l_73963482939856" src="https://github.com/user-attachments/assets/09dc85dc-e8d6-4222-8a5a-dc7ea383516c" />
+<img width="99" height="56" alt="Tumblr_l_75129124657640" src="https://github.com/user-attachments/assets/1d80c33e-51a3-4df2-9212-da34004f8337" />
+<img width="99" height="56" alt="Tumblr_l_74584488808577" src="https://github.com/user-attachments/assets/b73ce85c-b687-4386-8aa2-f70e080e9ce5" />
+<img width="99" height="56" alt="Tumblr_l_74404027702604" src="https://github.com/user-attachments/assets/c2bf8279-e2a4-4d1d-9841-747ad7e1d9e7" />
+<img width="99" height="56" alt="Tumblr_l_74394422300837" src="https://github.com/user-attachments/assets/a0ef5a5d-3577-469c-9f2b-70c5a819cd9a" />
+<img width="99" height="56" alt="Tumblr_l_75610899718810" src="https://github.com/user-attachments/assets/7dbb7d7c-c3e9-4ecd-b385-e53880d11413" />
+<img width="99" height="56" alt="Tumblr_l_75594286650327" src="https://github.com/user-attachments/assets/17af4482-e25d-4bd4-a6cc-dfa2952f0059" />
+<img width="99" height="56" alt="Tumblr_l_75362969055155" src="https://github.com/user-attachments/assets/03075ce5-ba59-48dc-9e6c-94e5b4f23ce2" />
 
 </ />
   </details>
 
   <div align="center">
   <details>
-        <summary> 🦠 BLINKIES </summary>
+        <summary> 🦠 BLINKIES #1 </summary>
         skibidi </ />
   </details>
 
   <div align="center">
   <details>
-        <summary> 🦠 USERBOXES </summary>
+        <summary> 🦠 USERBOXES #1 </summary>
         <img width="2048" height="457" alt="Tumblr_l_45998972759690" src="https://github.com/user-attachments/assets/f1ca2f04-b91d-4ee8-9237-9bd4b1fb4c15" /><img width="1200" height="189" alt="Tumblr_l_45620552113741" src="https://github.com/user-attachments/assets/1646fec6-4eec-4b77-bf82-709a76b91b26" />
 <img width="683" height="180" alt="Tumblr_l_45692311124338" src="https://github.com/user-attachments/assets/fd47b3ae-d7e2-4161-adf2-48b39408c129" />
 <img width="683" height="180" alt="Tumblr_l_45695610118243" src="https://github.com/user-attachments/assets/0b94600b-4074-400d-9ce7-7b49e6c1cbb0" />
@@ -113,4 +122,10 @@
 <img width="2048" height="418" alt="1000007197" src="https://github.com/user-attachments/assets/df86ec08-7723-486d-8981-f49308319dd7" />
 
  </ />
+  </details>
+
+
+  <details>
+        <summary> 🦠 BUTTONS #1 </summary>
+        Skibidi </ />
   </details>
